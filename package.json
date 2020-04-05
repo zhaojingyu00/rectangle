@@ -14,15 +14,13 @@
   "author": "zhaojingyu00",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhaojingyu00/baidu/issues"
+    "url": "https://github.com/zhaojingyu00/rectangle/issues"
   },
-  "homepage": "https://github.com/zhaojingyu00/baidu#readme",
+  "homepage": "https://github.com/zhaojingyu00/rectangle#readme",
   "devDependencies": {
-    "grunt": "^1.1.0",
-    "grunt-contrib-csslint": "^2.0.0",
+    "grunt": "^1.0.4",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-htmlmin": "^3.1.0",
-    "grunt-contrib-uglify": "^4.0.1",
-    "grunt-htmlhint": "^0.9.13"
+    "grunt-contrib-uglify": "^4.0.1"
   }
 }
